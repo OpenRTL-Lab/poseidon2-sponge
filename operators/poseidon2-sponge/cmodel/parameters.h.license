@@ -1,0 +1,16 @@
+OpenRTL-Header-Begin
+OpenRTL — Open-source hardware accelerators.
+Organization: https://github.com/OpenRTL-Lab
+Website: https://openrtl.top/
+
+Project: Goldilocks Poseidon2 Sponge Hardware Accelerator
+Chisel hardware for fixed-profile Poseidon2 sponge hashing and digest compression.
+Repository: https://github.com/OpenRTL-Lab/poseidon2-sponge
+File: operators/poseidon2-sponge/cmodel/parameters.h
+
+SPDX-FileCopyrightText: 2022 The Plonky3 Authors
+Attribution: Plonky3 Poseidon2 parameters; upstream MIT notices remain applicable.
+Upstream parameter material, not an OpenRTL-original parameter set.
+SPDX-License-Identifier: MIT
+See LICENSE and applicable third-party notices.
+OpenRTL-Header-End

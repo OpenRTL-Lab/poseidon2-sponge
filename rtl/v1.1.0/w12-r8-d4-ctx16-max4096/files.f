@@ -1,0 +1,12 @@
+rtl/v1.1.0/w12-r8-d4-ctx16-max4096/GoldilocksPoseidon2.sv
+rtl/v1.1.0/w12-r8-d4-ctx16-max4096/GoldilocksPoseidon2Sponge.sv
+rtl/v1.1.0/w12-r8-d4-ctx16-max4096/PoseidonGoldilocksMul.sv
+rtl/v1.1.0/w12-r8-d4-ctx16-max4096/Queue2_CompletionRecord.sv
+rtl/v1.1.0/w12-r8-d4-ctx16-max4096/Queue2_DigestRecord.sv
+rtl/v1.1.0/w12-r8-d4-ctx16-max4096/Queue2_InputRecord.sv
+rtl/v1.1.0/w12-r8-d4-ctx16-max4096/Queue2_NativeState.sv
+rtl/v1.1.0/w12-r8-d4-ctx16-max4096/Queue2_TaskRecord.sv
+rtl/v1.1.0/w12-r8-d4-ctx16-max4096/ram_2x293.sv
+rtl/v1.1.0/w12-r8-d4-ctx16-max4096/ram_2x549.sv
+rtl/v1.1.0/w12-r8-d4-ctx16-max4096/ram_2x66.sv
+rtl/v1.1.0/w12-r8-d4-ctx16-max4096/ram_2x800.sv
